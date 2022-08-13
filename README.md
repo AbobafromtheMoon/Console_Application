@@ -1,2 +1,2 @@
 # Course_work
-Hello! There is my course work where I developed a desktop application in C#.
+Hi! This is my coursework. It was required to develop a desktop application using C# programming language.
